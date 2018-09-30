@@ -1,2 +1,2 @@
-# chkstong-yibbibi
-A SEO competition for 470: Information Storage and Retrieval.
+# rlichota.github.io
+A hub of sorts for access to all my GitHub Pages Projects
